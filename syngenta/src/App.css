@@ -1,0 +1,17 @@
+.App{
+  align-items: center;
+  width: 98%;
+  height: 1000px;
+ 
+  padding: 20px;
+  color:red;
+  background-color: black;
+}
+.elemnt{
+  float: left;
+  margin-left: 100px;
+}
+.circle{
+  float:right;
+
+}
